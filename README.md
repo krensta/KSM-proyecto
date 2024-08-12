@@ -1,5 +1,8 @@
 # KSM-proyecto
 
+## Integrantes:
+(Recuerden relacionar los integrantes del grupo en este archivo)
+
 ## Descripción: 
 
 >  Nuestro proyecto se basa en un tipo de calculadora que tiene como objetivo hallar la huella de carbono, mediante una encuesta que mide el dispendio de recursos comunes. Además, queremos como equipo lograr generar una conciencia en el consumidor en cuánto a lo que gasta diariamente, y que, como consecuencia genera un impacto bastante negativo en nuestro planeta; esto para que se logre reponer el carbono que el usuario ha acumulado durante cierto periodo de tiempo con acciones que serán mencionadas en profundidad en ese mismo documento.
